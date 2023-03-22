@@ -1,0 +1,10 @@
+About
+The objective of this challenge is to create machine learning and deep learning models that use open-source CO2 emissions data (from satellite observations) to predict carbon emissions.
+
+The predictors for this challenge are from Sentinel-5P, an ESA satellite dedicated to monitoring air pollution. The target for this challenge is ground truth CO2 emissions collected from GRACED and EDGAR.
+
+Approximately 800 locations were selected from 20 areas in South Africa, with a distribution around farm lands, cities and power plants.
+
+The train set contains 361 locations and the test contains 137 locations. The test set is from a different province to the train set, to ensure your model is generalisable to different regions.
+
+The datasets can be found here: https://zindi.africa/competitions/umojahack-africa-2023-beginner-challenge/data
